@@ -14,7 +14,6 @@
 .classpath
 .c9/
 *.launch
-package-lock.json
 .settings/
 *.sublime-workspace
 
